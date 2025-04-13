@@ -1,0 +1,10 @@
+dataset: 'thyroid_cancer'
+experiment: 'exp_thyroid_cancer'
+eval_funcs: ['log_corr', 'k_means', 'ml_cat', 'rsc', 'bsm', 'discriminator']
+eval_funcs_params: [None, None, metric: 'mcc', None, None, None]
+genetic_algorithm:
+  - population_size: 100
+    generations: 100
+    tournament_size: 7
+    mutation_rate: 0.1
+    num_mutations_fract: 0.02

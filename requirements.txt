@@ -1,0 +1,5 @@
+tqdm
+pandas
+scipy<1.10
+dython==0.5.1
+catboost

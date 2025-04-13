@@ -1,0 +1,662 @@
+age,sex,dataset,cp,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,ca,thal,num
+50,0,Hungary,non-anginal,119,212,0,normal,185,0,2.0425469980776603,upsloping,-1,normal,0
+46,1,VA Long Beach,asymptomatic,119,13,0,lv hypertrophy,114,0,0.0220460008737801,empty_val,-1,empty_val,1
+58,0,Hungary,asymptomatic,130,223,0,st-t abnormality,125,1,1.0,downsloping,-1,empty_val,1
+56,1,Cleveland,asymptomatic,121,232,0,normal,119,1,1.61624975300143,flat,0,reversable defect,3
+32,1,Hungary,non-anginal,140,210,0,normal,160,0,0.0,empty_val,-1,empty_val,1
+42,1,Hungary,asymptomatic,121,232,0,normal,119,0,1.61624975300143,flat,-1,empty_val,0
+61,1,VA Long Beach,asymptomatic,122,0,0,normal,130,1,2.0,flat,-1,empty_val,1
+41,1,Hungary,asymptomatic,126,247,0,normal,123,0,-0.0256555303519985,empty_val,-1,empty_val,0
+51,0,Hungary,atypical angina,130,234,0,st-t abnormality,150,1,1.0,flat,-1,empty_val,1
+56,1,Switzerland,asymptomatic,147,1,1,normal,119,0,0.8671071407247951,flat,-1,normal,1
+42,0,Hungary,asymptomatic,122,232,0,normal,163,1,1.7325617885635387,empty_val,-1,reversable defect,0
+58,1,Cleveland,atypical angina,129,221,0,lv hypertrophy,154,0,0.0019420003537579,empty_val,0,normal,0
+56,1,Cleveland,asymptomatic,142,204,0,normal,93,0,0.017279345483108,empty_val,-1,reversable defect,1
+48,1,Hungary,atypical angina,150,254,0,normal,138,0,0.0,empty_val,-1,empty_val,0
+57,1,Cleveland,asymptomatic,158,292,0,normal,100,1,1.9365669216864287,downsloping,-1,fixed defect,2
+45,1,Cleveland,atypical angina,133,433,0,lv hypertrophy,161,1,1.582007757643808,flat,1,empty_val,0
+56,1,VA Long Beach,non-anginal,121,232,1,normal,158,1,1.61624975300143,empty_val,-1,reversable defect,0
+55,1,Cleveland,atypical angina,140,287,0,lv hypertrophy,132,0,0.0,upsloping,0,normal,0
+55,1,VA Long Beach,asymptomatic,150,240,0,normal,128,1,0.0,flat,-1,empty_val,3
+53,1,Hungary,typical angina,120,320,0,normal,140,0,0.0,empty_val,-1,empty_val,0
+54,1,Hungary,asymptomatic,160,254,0,st-t abnormality,138,1,1.5,flat,-1,empty_val,0
+56,0,Cleveland,atypical angina,121,232,0,normal,119,0,0.0107544170975898,empty_val,-1,normal,0
+56,1,Cleveland,asymptomatic,132,232,0,normal,119,0,2.412754951424783,flat,1,reversable defect,3
+39,0,Hungary,atypical angina,126,206,0,normal,163,0,0.0224872947353853,empty_val,-1,empty_val,1
+74,1,VA Long Beach,non-anginal,161,324,0,st-t abnormality,120,0,1.536216020475185,upsloping,-1,reversable defect,1
+45,0,VA Long Beach,asymptomatic,117,257,0,normal,116,1,0.7744057400057122,flat,-1,empty_val,0
+54,1,VA Long Beach,non-anginal,110,164,-1,st-t abnormality,119,1,1.8459123684861063,flat,-1,empty_val,2
+62,1,VA Long Beach,non-anginal,120,0,0,st-t abnormality,122,0,1.0,empty_val,-1,empty_val,3
+50,1,Hungary,atypical angina,150,237,0,normal,155,0,0.0,empty_val,-1,empty_val,0
+54,1,Hungary,asymptomatic,124,217,0,normal,116,1,1.764476848670237,flat,-1,empty_val,1
+38,0,Hungary,typical angina,120,245,0,normal,110,0,0.0,empty_val,-1,empty_val,0
+37,1,Hungary,non-anginal,120,289,0,normal,160,0,0.0,empty_val,-1,empty_val,0
+53,0,Cleveland,non-anginal,146,244,0,normal,158,0,0.0241723313777599,upsloping,0,normal,0
+56,1,Hungary,asymptomatic,121,259,0,st-t abnormality,119,0,1.61624975300143,flat,-1,empty_val,1
+56,1,Hungary,asymptomatic,121,232,0,normal,119,1,2.412754951424783,empty_val,1,empty_val,1
+58,1,Switzerland,asymptomatic,170,0,0,st-t abnormality,84,1,0.5563582030854807,upsloping,-1,reversable defect,3
+46,1,Hungary,atypical angina,151,243,0,normal,142,0,0.0360777642389088,empty_val,-1,empty_val,0
+67,1,Hungary,asymptomatic,114,130,0,lv hypertrophy,125,1,1.4560406412934876,flat,0,normal,1
+33,0,Hungary,asymptomatic,120,228,0,st-t abnormality,195,0,0.990310999322306,flat,0,normal,0
+45,1,VA Long Beach,typical angina,114,220,0,normal,124,0,0.0448565260550498,upsloping,-1,empty_val,1
+42,1,Hungary,atypical angina,121,232,0,normal,137,0,0.0107544170975898,empty_val,-1,empty_val,0
+28,1,Switzerland,asymptomatic,200,0,-1,st-t abnormality,195,0,-2.6,flat,-1,empty_val,1
+50,1,Hungary,asymptomatic,120,220,0,normal,150,1,2.0,flat,-1,empty_val,1
+38,1,Hungary,atypical angina,120,0,0,normal,139,0,0.0,empty_val,-1,empty_val,0
+65,1,VA Long Beach,asymptomatic,170,220,1,normal,92,1,1.5,flat,-1,empty_val,1
+41,1,Switzerland,asymptomatic,130,0,1,normal,126,0,2.7,downsloping,-1,empty_val,1
+70,1,Switzerland,asymptomatic,119,0,-1,normal,104,0,1.5272915473068756,upsloping,-1,empty_val,1
+41,0,Cleveland,atypical angina,142,183,0,normal,182,1,1.1726952007025446,upsloping,0,normal,0
+56,1,Cleveland,atypical angina,121,232,1,normal,119,0,1.61624975300143,flat,-1,reversable defect,0
+56,1,Cleveland,asymptomatic,147,232,0,normal,158,0,0.0107544170975898,flat,0,normal,0
+65,1,Cleveland,asymptomatic,145,258,0,lv hypertrophy,148,1,2.0,flat,1,reversable defect,1
+70,1,Switzerland,non-anginal,130,0,-1,st-t abnormality,183,0,2.672939409007145,upsloping,-1,empty_val,3
+28,1,Switzerland,non-anginal,200,0,-1,normal,195,0,6.2,upsloping,-1,empty_val,2
+66,1,Switzerland,asymptomatic,140,0,1,normal,108,1,3.0,flat,-1,normal,3
+56,1,VA Long Beach,asymptomatic,147,232,-1,normal,158,1,1.61624975300143,flat,-1,empty_val,2
+57,1,VA Long Beach,asymptomatic,130,0,0,normal,110,1,0.0,flat,-1,reversable defect,1
+43,1,Cleveland,atypical angina,130,254,0,normal,173,0,0.0,upsloping,0,normal,0
+64,1,VA Long Beach,asymptomatic,118,0,1,lv hypertrophy,116,1,0.6,flat,-1,empty_val,3
+62,0,Cleveland,asymptomatic,152,275,0,lv hypertrophy,156,1,0.1871170922894716,flat,2,normal,1
+59,0,Cleveland,non-anginal,140,245,0,normal,163,0,0.0,upsloping,0,normal,0
+53,1,Hungary,asymptomatic,131,223,0,normal,121,0,2.0,flat,-1,empty_val,1
+60,1,Switzerland,asymptomatic,120,0,0,normal,115,1,1.0,flat,-1,empty_val,3
+36,1,Hungary,atypical angina,136,199,-1,st-t abnormality,168,0,0.1101340000393471,empty_val,-1,empty_val,0
+43,1,Hungary,atypical angina,157,229,0,normal,161,0,0.0125972319811931,empty_val,-1,empty_val,0
+56,0,Hungary,asymptomatic,121,232,-1,normal,158,0,1.61624975300143,downsloping,2,empty_val,1
+42,1,Cleveland,asymptomatic,120,195,0,lv hypertrophy,137,0,0.0,upsloping,0,normal,0
+54,0,Hungary,non-anginal,120,288,0,normal,155,0,0.0,downsloping,0,empty_val,0
+58,0,Switzerland,non-anginal,133,223,0,normal,124,1,0.5397782236608459,flat,0,normal,4
+61,1,Cleveland,non-anginal,132,234,0,normal,164,0,0.0960343374604028,upsloping,0,normal,0
+56,1,Hungary,asymptomatic,121,1,0,normal,119,0,0.0107544170975898,upsloping,-1,reversable defect,0
+53,0,Hungary,atypical angina,140,272,0,normal,148,0,0.0,empty_val,-1,empty_val,0
+55,1,Cleveland,typical angina,167,182,1,lv hypertrophy,166,1,0.0655025789752246,upsloping,0,normal,0
+42,1,Hungary,atypical angina,130,261,0,normal,169,0,0.0,empty_val,-1,normal,0
+65,1,VA Long Beach,asymptomatic,168,202,1,lv hypertrophy,91,0,1.887326737336037,empty_val,-1,empty_val,1
+66,1,VA Long Beach,non-anginal,147,409,0,lv hypertrophy,166,0,0.0906848757101809,upsloping,-1,normal,0
+58,0,Switzerland,asymptomatic,140,0,0,normal,115,1,2.0,flat,0,normal,1
+63,1,Hungary,non-anginal,134,245,0,normal,135,1,1.9188585940910607,upsloping,-1,normal,1
+32,1,Hungary,atypical angina,113,419,0,normal,147,0,0.1143826770158242,empty_val,-1,empty_val,0
+40,1,Hungary,non-anginal,143,227,0,normal,164,0,0.0316340116123991,empty_val,-1,empty_val,0
+63,1,Hungary,atypical angina,89,184,1,lv hypertrophy,117,1,1.7317901972928276,flat,-1,fixed defect,1
+60,1,Switzerland,asymptomatic,157,23,-1,normal,108,1,2.3320688577652486,downsloping,-1,empty_val,1
+45,0,Hungary,atypical angina,145,175,0,st-t abnormality,175,0,0.0,empty_val,-1,empty_val,0
+55,1,VA Long Beach,asymptomatic,160,0,0,normal,110,1,3.0,downsloping,-1,empty_val,3
+55,1,Hungary,non-anginal,98,228,0,normal,160,0,0.5152871087898921,empty_val,-1,empty_val,0
+54,1,VA Long Beach,atypical angina,128,222,1,normal,170,0,0.0,flat,-1,empty_val,0
+58,1,VA Long Beach,non-anginal,166,295,0,st-t abnormality,110,0,2.480473789781074,empty_val,-1,empty_val,0
+51,1,Hungary,atypical angina,131,279,0,normal,163,0,0.0,empty_val,-1,empty_val,0
+52,1,Switzerland,asymptomatic,139,2,0,normal,74,0,0.0111740817386235,flat,-1,normal,2
+35,1,Hungary,asymptomatic,121,448,0,normal,143,0,0.5349352382178749,empty_val,-1,empty_val,1
+56,1,Cleveland,non-anginal,147,232,0,normal,119,0,1.61624975300143,flat,1,reversable defect,0
+58,1,VA Long Beach,asymptomatic,147,239,0,normal,94,0,2.680863188828697,downsloping,-1,empty_val,2
+61,1,Cleveland,asymptomatic,148,229,0,lv hypertrophy,117,1,3.753320700619169,downsloping,2,reversable defect,2
+55,1,Hungary,atypical angina,139,239,0,normal,99,0,0.0026722407730676,empty_val,-1,empty_val,1
+56,1,Hungary,asymptomatic,121,259,0,normal,158,0,0.0107544170975898,upsloping,-1,empty_val,0
+62,0,Hungary,non-anginal,113,273,0,normal,105,1,1.7342493084112078,empty_val,-1,normal,1
+60,1,Hungary,asymptomatic,145,249,0,st-t abnormality,99,0,2.1127802982510686,flat,-1,empty_val,1
+52,1,Switzerland,asymptomatic,119,23,0,normal,92,1,0.8091062788632054,flat,-1,reversable defect,4
+58,1,Switzerland,asymptomatic,125,0,-1,normal,130,0,0.0,empty_val,-1,empty_val,2
+57,1,Cleveland,non-anginal,132,220,1,lv hypertrophy,122,0,1.4710118008487192,empty_val,-1,empty_val,0
+60,1,Hungary,asymptomatic,138,237,0,normal,140,1,1.0,flat,-1,empty_val,2
+59,1,VA Long Beach,asymptomatic,141,191,0,normal,111,1,2.0348975699433938,empty_val,-1,empty_val,2
+28,1,Switzerland,asymptomatic,199,0,-1,normal,195,0,-2.6,flat,-1,empty_val,1
+56,1,Hungary,typical angina,147,232,-1,normal,137,1,1.61624975300143,flat,-1,empty_val,3
+60,1,Cleveland,atypical angina,125,240,1,lv hypertrophy,161,0,2.349030314153589,flat,1,normal,2
+39,1,Cleveland,typical angina,135,243,0,normal,144,0,0.0,upsloping,0,reversable defect,0
+57,1,Cleveland,asymptomatic,147,329,0,normal,122,1,2.009261886465624,flat,1,reversable defect,1
+56,0,Hungary,atypical angina,121,232,0,st-t abnormality,158,0,0.0107544170975898,empty_val,-1,empty_val,0
+76,1,VA Long Beach,asymptomatic,196,305,1,st-t abnormality,97,1,5.866114023742611,downsloping,-1,empty_val,3
+44,1,VA Long Beach,asymptomatic,122,201,0,normal,127,1,0.0873052026642149,empty_val,-1,empty_val,0
+56,1,VA Long Beach,non-anginal,147,259,0,st-t abnormality,119,1,0.0107544170975898,upsloping,-1,reversable defect,1
+46,1,Hungary,asymptomatic,95,222,1,normal,135,1,2.436153047552948,flat,0,reversable defect,1
+56,1,Cleveland,atypical angina,121,232,1,normal,158,1,0.0107544170975898,upsloping,2,reversable defect,0
+54,1,Switzerland,asymptomatic,121,0,-1,normal,114,0,1.4403048501643785,upsloping,-1,empty_val,2
+48,1,Hungary,non-anginal,175,178,0,normal,137,0,2.0018483922831383,flat,-1,empty_val,1
+43,1,Hungary,asymptomatic,128,345,0,st-t abnormality,165,0,1.6976799493982755,flat,0,empty_val,2
+28,1,VA Long Beach,non-anginal,119,209,0,st-t abnormality,142,0,0.0274198249703632,empty_val,-1,empty_val,0
+58,1,VA Long Beach,asymptomatic,140,219,0,normal,110,0,1.5,flat,-1,empty_val,2
+57,1,VA Long Beach,asymptomatic,154,254,0,normal,119,0,1.5593937720439854,flat,-1,empty_val,2
+43,0,Hungary,asymptomatic,130,184,0,st-t abnormality,130,0,0.0,empty_val,-1,empty_val,0
+62,1,Hungary,asymptomatic,110,250,0,normal,140,1,1.5,flat,-1,empty_val,0
+38,1,VA Long Beach,asymptomatic,120,0,0,normal,63,1,0.0,upsloping,-1,empty_val,2
+56,1,Switzerland,typical angina,129,230,-1,normal,138,0,0.1525685623712364,flat,3,reversable defect,2
+42,1,VA Long Beach,asymptomatic,147,358,1,normal,119,0,0.0107544170975898,empty_val,0,empty_val,1
+56,0,Hungary,asymptomatic,121,232,0,st-t abnormality,158,0,2.412754951424783,flat,-1,empty_val,3
+63,0,Hungary,asymptomatic,142,270,0,lv hypertrophy,101,0,0.3398751988830246,empty_val,-1,empty_val,0
+68,1,VA Long Beach,atypical angina,145,229,0,normal,133,1,1.991342727701232,upsloping,-1,normal,2
+58,1,VA Long Beach,asymptomatic,150,237,1,normal,120,1,3.0,flat,-1,empty_val,3
+42,1,Switzerland,asymptomatic,147,1,0,lv hypertrophy,119,0,0.0107544170975898,flat,-1,reversable defect,2
+51,1,Cleveland,asymptomatic,131,238,0,normal,136,0,0.3932591928758481,flat,-1,empty_val,4
+52,0,Cleveland,non-anginal,125,232,0,lv hypertrophy,140,0,1.1862091270136426,flat,1,normal,0
+61,1,Switzerland,asymptomatic,135,0,0,normal,110,1,0.0,upsloping,-1,reversable defect,0
+53,1,Switzerland,asymptomatic,140,0,0,normal,106,0,0.0,upsloping,-1,fixed defect,2
+52,1,VA Long Beach,asymptomatic,120,254,0,st-t abnormality,120,1,0.0,empty_val,-1,empty_val,3
+50,0,Cleveland,typical angina,130,199,0,lv hypertrophy,130,0,1.5365461224459456,flat,0,normal,0
+55,1,Cleveland,typical angina,122,240,0,lv hypertrophy,116,1,0.915614481873646,upsloping,2,empty_val,3
+56,1,Hungary,asymptomatic,133,311,0,normal,101,1,1.290808287073624,flat,-1,reversable defect,1
+61,0,VA Long Beach,asymptomatic,128,411,0,normal,152,1,2.0,flat,-1,reversable defect,1
+56,1,Cleveland,non-anginal,147,232,0,normal,158,0,0.0107544170975898,empty_val,-1,reversable defect,0
+56,1,VA Long Beach,asymptomatic,114,240,0,lv hypertrophy,127,0,0.9348408723708866,upsloping,2,reversable defect,3
+56,0,Cleveland,asymptomatic,121,232,0,normal,119,1,0.0107544170975898,flat,1,reversable defect,0
+43,0,Cleveland,non-anginal,132,286,0,normal,168,0,0.4991416157002262,upsloping,0,normal,0
+64,1,Switzerland,asymptomatic,125,0,0,st-t abnormality,103,0,0.0,empty_val,-1,reversable defect,0
+55,1,Cleveland,atypical angina,125,217,0,normal,154,0,0.0386136741277436,empty_val,-1,empty_val,0
+51,0,Cleveland,non-anginal,130,282,1,normal,169,0,0.0,upsloping,0,normal,1
+54,1,Switzerland,asymptomatic,100,0,0,st-t abnormality,100,1,2.0,flat,-1,empty_val,3
+45,0,Hungary,non-anginal,135,329,0,normal,119,0,0.0435092478486625,empty_val,-1,reversable defect,1
+60,0,Cleveland,asymptomatic,132,267,0,lv hypertrophy,194,0,1.3244586297455403,upsloping,3,normal,1
+58,1,Switzerland,asymptomatic,139,0,0,normal,82,1,0.0070742868473856,flat,-1,reversable defect,1
+40,1,Cleveland,asymptomatic,107,223,-1,normal,104,1,1.434454840755703,flat,0,reversable defect,3
+42,0,Cleveland,asymptomatic,121,232,0,normal,119,0,1.61624975300143,flat,-1,fixed defect,0
+35,1,Cleveland,typical angina,129,235,1,normal,161,0,0.3275939452707684,empty_val,-1,empty_val,2
+50,1,Cleveland,non-anginal,145,259,0,st-t abnormality,165,0,0.1402128276155464,upsloping,0,normal,0
+48,0,Cleveland,asymptomatic,120,214,0,lv hypertrophy,173,0,0.0,upsloping,0,normal,0
+55,1,VA Long Beach,atypical angina,117,240,1,st-t abnormality,154,1,2.4581970500997183,flat,0,empty_val,0
+57,1,Cleveland,typical angina,133,193,1,normal,149,0,1.611383933705556,upsloping,-1,reversable defect,0
+55,1,Switzerland,asymptomatic,125,0,-1,st-t abnormality,123,0,2.162921054700283,flat,-1,empty_val,0
+36,0,Switzerland,typical angina,158,318,0,lv hypertrophy,153,1,0.0521791071635202,flat,-1,reversable defect,0
+60,1,VA Long Beach,asymptomatic,132,182,1,st-t abnormality,118,1,2.929080139263882,flat,-1,empty_val,3
+56,1,Cleveland,non-anginal,147,232,0,normal,158,0,1.61624975300143,upsloping,0,reversable defect,0
+60,1,VA Long Beach,asymptomatic,120,176,0,lv hypertrophy,96,1,0.0,empty_val,-1,empty_val,0
+56,1,VA Long Beach,asymptomatic,121,1,0,normal,119,0,0.8671071407247951,upsloping,-1,empty_val,1
+61,0,Switzerland,asymptomatic,143,64,-1,normal,87,0,0.0,empty_val,-1,reversable defect,1
+28,0,VA Long Beach,asymptomatic,200,603,1,lv hypertrophy,60,1,6.2,downsloping,-1,empty_val,3
+48,1,VA Long Beach,asymptomatic,142,243,0,st-t abnormality,148,1,1.0,flat,-1,empty_val,2
+63,1,Switzerland,asymptomatic,140,0,-1,normal,105,1,0.0,empty_val,-1,normal,2
+60,1,Switzerland,asymptomatic,155,0,1,normal,99,1,1.5,flat,-1,empty_val,2
+57,1,VA Long Beach,non-anginal,130,205,0,normal,104,1,3.284288451116802,downsloping,-1,empty_val,3
+43,1,Hungary,atypical angina,150,182,0,normal,110,0,0.0,empty_val,-1,empty_val,0
+57,1,Hungary,atypical angina,130,226,1,st-t abnormality,162,0,0.0,empty_val,-1,empty_val,0
+54,1,Hungary,non-anginal,82,236,0,normal,140,0,0.0,empty_val,-1,empty_val,0
+60,1,Hungary,non-anginal,119,171,0,lv hypertrophy,150,0,0.9634212922667548,upsloping,3,empty_val,4
+52,1,Cleveland,non-anginal,146,202,0,lv hypertrophy,159,0,1.1507303072572972,flat,1,empty_val,1
+42,1,Cleveland,non-anginal,129,252,0,normal,167,0,-0.4498096789606359,downsloping,0,reversable defect,0
+60,1,Switzerland,asymptomatic,160,0,-1,normal,145,1,0.0,empty_val,-1,empty_val,1
+37,0,Hungary,asymptomatic,120,300,0,normal,122,0,0.0,empty_val,-1,empty_val,0
+45,1,Cleveland,atypical angina,119,240,0,normal,170,0,-0.0028660697463626,empty_val,-1,normal,0
+62,1,Hungary,asymptomatic,110,250,0,normal,140,1,1.5,flat,-1,empty_val,0
+34,0,Cleveland,atypical angina,110,263,0,normal,182,0,0.0,upsloping,0,normal,0
+28,1,Hungary,atypical angina,80,288,0,normal,195,0,-2.6,empty_val,-1,empty_val,0
+56,1,Hungary,asymptomatic,147,232,0,normal,158,0,1.61624975300143,upsloping,-1,empty_val,1
+32,1,Hungary,asymptomatic,150,223,0,normal,160,0,0.0,empty_val,-1,empty_val,0
+75,1,Switzerland,asymptomatic,134,0,-1,st-t abnormality,143,0,0.0,upsloping,-1,empty_val,1
+60,1,VA Long Beach,asymptomatic,130,0,0,normal,150,0,1.0,upsloping,-1,empty_val,2
+52,0,VA Long Beach,non-anginal,110,237,0,lv hypertrophy,162,0,0.5825535623935056,upsloping,1,normal,0
+58,1,VA Long Beach,asymptomatic,140,0,0,st-t abnormality,111,0,2.0,flat,-1,empty_val,1
+52,1,Hungary,atypical angina,120,216,0,normal,159,0,0.0669726306382128,empty_val,-1,empty_val,0
+42,1,Hungary,asymptomatic,188,248,0,normal,109,1,1.9806184894530727,flat,-1,empty_val,1
+63,1,Hungary,asymptomatic,120,2,0,normal,110,1,0.7631287491414577,flat,-1,normal,1
+42,1,Cleveland,asymptomatic,147,232,0,normal,119,1,0.0107544170975898,flat,1,reversable defect,0
+43,1,Cleveland,non-anginal,130,218,1,normal,167,1,0.0,upsloping,-1,normal,0
+62,1,VA Long Beach,asymptomatic,145,263,1,st-t abnormality,134,0,0.0,empty_val,-1,empty_val,1
+56,1,Hungary,non-anginal,139,247,0,lv hypertrophy,140,0,0.0408107660498934,flat,0,empty_val,0
+42,1,Cleveland,asymptomatic,121,232,0,normal,158,0,0.0107544170975898,upsloping,0,normal,0
+54,1,Switzerland,asymptomatic,100,0,0,st-t abnormality,100,1,2.0,flat,-1,empty_val,3
+43,0,Hungary,atypical angina,111,236,0,lv hypertrophy,149,0,0.0,empty_val,-1,empty_val,0
+58,1,Cleveland,asymptomatic,136,228,0,lv hypertrophy,160,0,3.4162322449352733,upsloping,3,reversable defect,1
+41,0,Hungary,atypical angina,123,227,0,normal,162,0,0.0261663802829294,empty_val,-1,empty_val,0
+63,1,VA Long Beach,asymptomatic,160,0,1,normal,125,1,1.0,flat,-1,reversable defect,2
+56,1,Cleveland,asymptomatic,121,232,0,lv hypertrophy,158,0,1.61624975300143,upsloping,-1,normal,0
+44,1,Hungary,asymptomatic,125,264,0,normal,150,0,0.0,empty_val,-1,empty_val,1
+58,1,Cleveland,asymptomatic,122,256,0,lv hypertrophy,155,0,0.0186859850426388,upsloping,0,normal,1
+55,1,VA Long Beach,asymptomatic,148,209,0,normal,152,1,0.0312962639604392,flat,-1,empty_val,0
+52,1,Cleveland,asymptomatic,126,207,0,normal,133,0,0.0101977415562042,flat,1,reversable defect,0
+46,0,Hungary,atypical angina,120,239,0,normal,161,0,0.0,empty_val,-1,empty_val,0
+53,1,Hungary,typical angina,120,320,0,normal,140,0,0.0,empty_val,-1,empty_val,0
+42,0,Hungary,atypical angina,127,242,0,normal,154,0,0.0006434881935369,empty_val,-1,empty_val,1
+65,1,Cleveland,asymptomatic,122,423,0,lv hypertrophy,153,0,2.942339037869369,flat,0,reversable defect,0
+65,1,Hungary,asymptomatic,152,213,1,normal,91,1,0.5554358673063283,flat,-1,empty_val,3
+53,1,Switzerland,asymptomatic,150,0,-1,normal,105,0,0.3,flat,-1,empty_val,1
+54,1,Switzerland,non-anginal,91,0,0,normal,152,1,0.6909338379177039,upsloping,-1,normal,0
+55,1,Cleveland,asymptomatic,125,210,0,normal,118,1,1.7479430185454996,downsloping,-1,empty_val,3
+28,1,Cleveland,asymptomatic,200,603,0,lv hypertrophy,195,0,6.2,upsloping,0,reversable defect,0
+62,1,VA Long Beach,asymptomatic,130,0,-1,normal,150,0,2.3,flat,-1,fixed defect,2
+62,1,Switzerland,asymptomatic,150,0,-1,st-t abnormality,140,0,0.0,empty_val,-1,empty_val,2
+58,1,Switzerland,asymptomatic,110,0,0,normal,144,1,1.8,flat,0,empty_val,3
+56,1,Hungary,asymptomatic,138,1,1,lv hypertrophy,166,1,1.4189762304123872,flat,1,reversable defect,2
+55,1,VA Long Beach,asymptomatic,125,268,1,lv hypertrophy,157,1,2.723255116897741,flat,-1,empty_val,1
+47,1,Switzerland,asymptomatic,160,0,-1,st-t abnormality,120,0,2.0,flat,-1,empty_val,3
+57,1,Hungary,asymptomatic,130,0,0,normal,150,1,2.0,flat,-1,reversable defect,1
+54,1,Hungary,asymptomatic,140,247,0,normal,150,1,1.0,flat,-1,empty_val,1
+49,1,Cleveland,atypical angina,119,174,0,lv hypertrophy,164,0,-0.0123611700224167,upsloping,-1,empty_val,0
+41,1,Cleveland,typical angina,120,218,0,lv hypertrophy,178,0,2.1772015284413966,upsloping,1,normal,0
+41,1,Hungary,asymptomatic,91,213,0,normal,133,0,0.2594722863341322,empty_val,-1,empty_val,1
+55,1,Cleveland,non-anginal,120,234,-1,lv hypertrophy,120,0,0.9945484405062188,upsloping,0,fixed defect,1
+56,1,Switzerland,asymptomatic,147,1,-1,normal,158,0,1.61624975300143,flat,-1,empty_val,1
+58,1,VA Long Beach,asymptomatic,129,252,0,normal,130,1,0.1061994011078862,upsloping,-1,reversable defect,0
+57,1,Cleveland,asymptomatic,120,1,0,normal,109,1,1.6329574715920907,upsloping,-1,reversable defect,2
+32,0,Hungary,asymptomatic,120,287,0,normal,169,0,0.0,empty_val,-1,empty_val,0
+44,0,Hungary,asymptomatic,88,211,0,lv hypertrophy,176,0,2.7566463323319588,empty_val,-1,normal,0
+55,0,Cleveland,non-anginal,133,303,1,normal,159,0,0.0449133174396498,upsloping,0,normal,0
+50,0,Cleveland,non-anginal,117,262,1,normal,146,0,0.8802148132153615,flat,0,normal,0
+38,0,Hungary,asymptomatic,107,233,0,lv hypertrophy,135,0,0.1664628869009463,flat,0,empty_val,0
+43,1,Cleveland,asymptomatic,152,224,0,lv hypertrophy,104,1,-0.0306236158735442,upsloping,-1,reversable defect,1
+45,0,Cleveland,asymptomatic,161,107,0,normal,147,0,1.5951481959319578,flat,-1,normal,1
+40,0,Hungary,atypical angina,128,304,0,normal,146,0,0.0,empty_val,-1,empty_val,0
+51,0,Hungary,atypical angina,132,237,0,normal,130,0,0.9969886965628636,flat,-1,empty_val,0
+54,1,VA Long Beach,asymptomatic,136,6,0,st-t abnormality,111,0,-0.0339686109024401,flat,-1,empty_val,1
+40,1,Switzerland,non-anginal,120,275,0,lv hypertrophy,145,0,2.298992060359088,flat,0,empty_val,0
+41,0,Cleveland,non-anginal,132,215,0,normal,170,0,0.0,upsloping,0,normal,0
+58,1,Cleveland,asymptomatic,122,256,0,lv hypertrophy,155,0,0.0186859850426388,upsloping,0,normal,1
+61,0,Cleveland,asymptomatic,128,365,0,normal,102,0,-0.0027794834418999,upsloping,1,normal,0
+43,1,Cleveland,asymptomatic,183,258,1,normal,154,0,2.996049873687704,flat,3,fixed defect,0
+55,1,Hungary,asymptomatic,117,221,0,normal,159,0,0.0339895074178707,empty_val,-1,empty_val,1
+42,1,Cleveland,asymptomatic,121,259,0,normal,158,0,0.0107544170975898,upsloping,3,normal,0
+64,1,VA Long Beach,asymptomatic,146,0,-1,normal,111,1,5.0122776995405385,downsloping,-1,empty_val,2
+54,1,VA Long Beach,asymptomatic,117,203,0,st-t abnormality,116,1,0.0,flat,-1,fixed defect,0
+56,1,Cleveland,asymptomatic,121,232,1,normal,158,1,0.0107544170975898,flat,3,reversable defect,3
+56,1,Hungary,atypical angina,121,232,0,normal,119,0,0.0107544170975898,empty_val,-1,empty_val,0
+42,1,VA Long Beach,asymptomatic,121,1,-1,normal,158,1,1.61624975300143,flat,-1,empty_val,0
+31,1,Switzerland,asymptomatic,140,0,0,normal,177,1,0.0,flat,-1,reversable defect,2
+63,1,VA Long Beach,asymptomatic,110,0,-1,st-t abnormality,122,1,1.0,flat,-1,reversable defect,2
+52,1,Switzerland,atypical angina,125,208,0,normal,92,0,0.4717909824588372,flat,-1,reversable defect,0
+58,1,Switzerland,asymptomatic,170,0,0,st-t abnormality,84,1,0.5563582030854807,upsloping,-1,reversable defect,3
+59,1,VA Long Beach,asymptomatic,150,250,1,lv hypertrophy,153,1,0.8989212602122866,flat,0,normal,1
+51,1,VA Long Beach,asymptomatic,116,236,0,normal,105,0,-0.0683916740851012,upsloping,-1,empty_val,0
+55,1,Cleveland,asymptomatic,100,211,0,normal,162,0,0.8,upsloping,0,normal,0
+56,0,Hungary,typical angina,132,232,0,normal,158,0,0.0107544170975898,empty_val,-1,empty_val,1
+46,1,Hungary,asymptomatic,144,230,0,normal,109,1,0.0279320369665756,upsloping,-1,empty_val,1
+57,0,VA Long Beach,asymptomatic,120,337,0,normal,119,1,1.5236770244298998,flat,-1,empty_val,1
+64,1,Cleveland,non-anginal,124,318,0,lv hypertrophy,177,0,0.0,upsloping,0,reversable defect,1
+32,1,Cleveland,non-anginal,129,172,1,lv hypertrophy,183,0,0.3725234953948313,upsloping,0,normal,0
+47,1,Hungary,typical angina,120,225,0,normal,160,0,1.0,flat,-1,empty_val,0
+35,1,Hungary,atypical angina,130,224,0,normal,120,0,0.0,empty_val,-1,empty_val,0
+58,1,Hungary,asymptomatic,134,261,0,st-t abnormality,106,1,1.5576865893093004,flat,2,empty_val,1
+55,1,Switzerland,atypical angina,140,0,-1,st-t abnormality,108,0,0.0,flat,-1,empty_val,2
+58,1,Hungary,asymptomatic,123,223,0,st-t abnormality,112,0,0.0381352030054791,empty_val,1,normal,0
+53,1,Hungary,asymptomatic,153,245,0,normal,152,1,1.88638214937996,flat,-1,empty_val,1
+49,1,Hungary,atypical angina,120,245,0,normal,120,0,2.0,flat,-1,empty_val,0
+31,1,Hungary,asymptomatic,130,237,0,normal,140,0,0.0,empty_val,-1,empty_val,0
+62,1,Switzerland,asymptomatic,141,204,0,lv hypertrophy,137,0,2.0820822038603843,upsloping,-1,normal,0
+71,1,VA Long Beach,asymptomatic,143,217,1,lv hypertrophy,123,1,1.0600215986456047,empty_val,-1,reversable defect,3
+55,1,Switzerland,asymptomatic,108,0,-1,st-t abnormality,60,0,-1.5371474930768927,flat,-1,empty_val,1
+54,1,Switzerland,asymptomatic,118,38,0,normal,104,0,0.8039585115292344,upsloping,1,empty_val,3
+43,1,Hungary,non-anginal,146,243,0,normal,162,0,0.0267278965046401,empty_val,-1,empty_val,2
+57,1,Cleveland,asymptomatic,152,257,0,normal,157,0,0.0090419637504078,upsloping,1,normal,0
+58,1,Cleveland,asymptomatic,119,233,0,normal,144,0,1.269525506902219,flat,-1,reversable defect,0
+37,0,Cleveland,non-anginal,125,269,1,lv hypertrophy,167,0,0.9195448445534072,upsloping,0,normal,0
+53,1,Switzerland,asymptomatic,124,0,0,lv hypertrophy,135,0,0.3623012859236137,flat,-1,reversable defect,1
+55,1,Cleveland,typical angina,139,178,0,lv hypertrophy,170,0,0.0455925871531798,upsloping,-1,normal,0
+50,1,Hungary,asymptomatic,143,238,0,normal,88,0,0.008672028472493,empty_val,-1,empty_val,0
+58,0,Hungary,asymptomatic,152,390,0,lv hypertrophy,87,1,0.5946659036922419,flat,-1,normal,0
+59,1,Switzerland,asymptomatic,140,0,-1,st-t abnormality,130,1,0.0,upsloping,-1,reversable defect,2
+36,1,Hungary,atypical angina,99,237,0,normal,134,0,0.720675074281115,flat,-1,empty_val,4
+53,0,Hungary,non-anginal,133,69,0,normal,161,0,0.0,empty_val,-1,empty_val,1
+52,1,Cleveland,typical angina,162,236,-1,normal,127,1,0.2773136362969592,empty_val,-1,reversable defect,1
+51,1,VA Long Beach,asymptomatic,115,0,-1,normal,110,1,0.0,empty_val,-1,empty_val,1
+56,1,Cleveland,asymptomatic,121,232,0,st-t abnormality,158,0,0.0107544170975898,upsloping,-1,empty_val,2
+64,1,VA Long Beach,non-anginal,131,186,0,st-t abnormality,115,1,2.8331747189940297,flat,-1,empty_val,2
+56,1,Hungary,asymptomatic,144,257,0,normal,114,0,0.0501469299812699,flat,0,reversable defect,1
+65,1,Cleveland,asymptomatic,150,293,1,lv hypertrophy,144,1,1.823210215676277,flat,0,reversable defect,2
+43,1,Switzerland,asymptomatic,118,10,0,normal,144,0,-0.0046903106591737,upsloping,-1,empty_val,2
+58,0,Cleveland,asymptomatic,125,258,0,normal,157,1,0.91309689485799,flat,0,normal,0
+67,1,Switzerland,asymptomatic,129,0,-1,st-t abnormality,162,1,0.5739668833172329,flat,-1,normal,2
+62,1,VA Long Beach,asymptomatic,120,0,1,normal,110,1,2.0,flat,-1,empty_val,3
+43,0,Hungary,atypical angina,131,233,0,normal,166,0,-0.0206141835399179,empty_val,0,empty_val,0
+60,1,VA Long Beach,asymptomatic,110,0,0,normal,112,1,1.5,empty_val,-1,empty_val,1
+55,1,Cleveland,asymptomatic,116,248,0,lv hypertrophy,127,1,2.361189095088096,flat,-1,reversable defect,1
+59,1,VA Long Beach,non-anginal,112,0,0,st-t abnormality,115,1,0.4121363879209496,flat,-1,empty_val,3
+59,1,Cleveland,atypical angina,140,490,0,normal,149,0,1.597667158942942,flat,0,normal,1
+52,1,Hungary,non-anginal,121,190,0,normal,149,0,0.0,empty_val,-1,empty_val,1
+47,1,Cleveland,typical angina,115,174,0,normal,166,0,0.9961753254949716,flat,0,empty_val,0
+56,0,Cleveland,atypical angina,130,254,0,normal,163,0,0.0,flat,0,normal,0
+42,1,Switzerland,asymptomatic,147,1,0,normal,158,1,1.61624975300143,flat,-1,empty_val,3
+57,1,Switzerland,asymptomatic,179,0,0,normal,89,1,0.0565024453394353,upsloping,-1,empty_val,1
+55,0,Cleveland,non-anginal,133,303,1,normal,159,0,0.0449133174396498,upsloping,0,normal,0
+51,1,Hungary,asymptomatic,189,445,0,st-t abnormality,156,1,2.9178793718885667,flat,-1,empty_val,1
+28,1,Cleveland,atypical angina,196,603,0,normal,195,0,-2.6,upsloping,0,normal,0
+58,1,Cleveland,non-anginal,141,134,0,lv hypertrophy,143,0,0.997469913952976,upsloping,1,reversable defect,1
+55,1,Switzerland,atypical angina,140,0,-1,st-t abnormality,108,0,0.0,flat,-1,empty_val,2
+38,1,Hungary,asymptomatic,130,213,0,normal,130,0,0.0,empty_val,-1,empty_val,1
+69,0,Cleveland,asymptomatic,177,323,0,normal,165,0,0.0,upsloping,0,normal,0
+42,1,Hungary,atypical angina,120,277,0,normal,130,0,0.0,empty_val,-1,empty_val,1
+47,0,Cleveland,asymptomatic,112,164,0,normal,155,1,1.830576789791272,upsloping,2,reversable defect,2
+77,0,Cleveland,asymptomatic,200,0,1,lv hypertrophy,60,1,6.2,downsloping,-1,reversable defect,3
+54,1,Hungary,asymptomatic,123,234,0,normal,164,1,0.0228500775070886,empty_val,-1,empty_val,1
+59,0,Cleveland,asymptomatic,150,303,0,lv hypertrophy,136,0,1.629878833985898,flat,0,reversable defect,3
+62,1,Hungary,atypical angina,130,264,0,normal,155,0,0.0,flat,-1,empty_val,0
+42,0,Cleveland,asymptomatic,121,259,1,normal,158,1,0.8671071407247951,flat,0,normal,0
+53,1,Hungary,asymptomatic,130,253,0,normal,124,1,1.0,flat,-1,empty_val,1
+67,1,VA Long Beach,asymptomatic,134,284,0,normal,138,1,1.1585846927138013,empty_val,-1,empty_val,4
+62,1,VA Long Beach,asymptomatic,130,0,-1,normal,150,0,2.3,flat,-1,fixed defect,2
+60,1,Switzerland,asymptomatic,160,0,0,normal,97,1,2.38053052144174,flat,-1,reversable defect,3
+62,1,Cleveland,typical angina,152,258,1,lv hypertrophy,158,0,1.8131010961826328,downsloping,0,fixed defect,0
+43,1,Cleveland,atypical angina,122,298,1,lv hypertrophy,160,0,0.0,upsloping,0,normal,0
+45,1,Cleveland,atypical angina,147,227,0,normal,106,1,1.2768968351868653,flat,-1,normal,1
+36,1,Hungary,atypical angina,130,245,0,normal,130,0,0.0,empty_val,-1,empty_val,0
+52,1,Switzerland,asymptomatic,106,0,-1,normal,109,0,-0.44371586838305,empty_val,-1,empty_val,1
+40,0,Cleveland,atypical angina,134,164,0,normal,121,0,1.1388396239259402,upsloping,3,empty_val,0
+50,1,Hungary,atypical angina,122,224,0,normal,120,1,-0.0082057068019383,downsloping,-1,empty_val,0
+57,1,Switzerland,asymptomatic,110,0,-1,normal,83,1,1.0,flat,-1,empty_val,1
+56,1,VA Long Beach,asymptomatic,147,232,0,normal,119,1,0.8671071407247951,flat,-1,reversable defect,1
+41,1,Cleveland,non-anginal,127,219,0,normal,189,1,1.2183995418264386,upsloping,0,normal,0
+55,1,Cleveland,atypical angina,120,238,0,normal,118,0,0.9562290584668732,upsloping,-1,normal,1
+56,1,Cleveland,non-anginal,147,232,0,lv hypertrophy,158,0,2.412754951424783,flat,-1,reversable defect,4
+54,1,Switzerland,asymptomatic,155,0,0,normal,112,0,-0.0130249997046339,flat,-1,reversable defect,2
+56,1,VA Long Beach,asymptomatic,120,8,0,normal,112,0,0.012336631745163,upsloping,-1,empty_val,0
+49,1,Cleveland,asymptomatic,141,168,0,normal,144,0,1.0071779001645107,upsloping,0,normal,0
+56,0,Switzerland,asymptomatic,151,203,0,lv hypertrophy,157,0,-0.0603798102936061,upsloping,0,reversable defect,0
+58,0,Cleveland,non-anginal,120,226,0,normal,128,0,1.7805650380496223,downsloping,0,normal,2
+64,1,Cleveland,asymptomatic,140,244,0,normal,148,0,1.6,flat,0,normal,1
+56,1,Hungary,asymptomatic,121,232,0,st-t abnormality,158,1,0.8671071407247951,flat,-1,empty_val,1
+59,0,Switzerland,asymptomatic,136,307,0,lv hypertrophy,119,0,3.966101512708388,flat,-1,reversable defect,0
+62,0,Cleveland,non-anginal,138,317,0,normal,152,0,0.0081604032058127,upsloping,-1,normal,0
+44,1,Hungary,non-anginal,126,182,0,normal,156,0,0.0,empty_val,-1,empty_val,0
+58,1,Cleveland,typical angina,155,150,0,lv hypertrophy,126,0,2.8162298121507527,downsloping,0,normal,0
+56,1,Cleveland,non-anginal,147,232,0,normal,158,0,1.61624975300143,upsloping,0,reversable defect,0
+54,1,Hungary,atypical angina,126,194,0,lv hypertrophy,146,1,1.3329890528484696,upsloping,-1,reversable defect,1
+31,1,Hungary,asymptomatic,110,216,0,normal,141,0,0.0,empty_val,-1,empty_val,1
+28,1,Switzerland,asymptomatic,88,0,-1,normal,194,0,3.3697743133838185,upsloping,-1,empty_val,1
+62,1,Cleveland,non-anginal,120,211,0,normal,152,0,0.0,upsloping,0,normal,0
+63,0,Cleveland,asymptomatic,120,308,0,normal,111,1,1.6,upsloping,1,reversable defect,3
+56,1,VA Long Beach,asymptomatic,147,259,1,lv hypertrophy,158,1,0.0107544170975898,empty_val,1,reversable defect,0
+42,0,Hungary,asymptomatic,121,259,0,normal,119,1,0.0107544170975898,flat,-1,reversable defect,0
+61,1,Hungary,asymptomatic,141,267,0,st-t abnormality,153,1,3.6304801607925623,flat,-1,empty_val,1
+42,1,Cleveland,non-anginal,140,199,0,normal,162,0,0.0,upsloping,0,normal,0
+58,1,Cleveland,non-anginal,136,218,0,lv hypertrophy,150,0,0.1309615124122084,upsloping,1,reversable defect,2
+54,0,Hungary,atypical angina,133,237,-1,normal,97,0,-0.4881368020345032,empty_val,-1,empty_val,0
+50,1,Cleveland,asymptomatic,144,191,0,lv hypertrophy,149,0,1.778356031674764,flat,0,empty_val,0
+59,1,Hungary,non-anginal,150,275,1,normal,151,1,0.0488784506635174,flat,0,empty_val,0
+58,0,Cleveland,atypical angina,121,227,0,lv hypertrophy,157,0,0.0152236035158579,upsloping,0,normal,0
+56,1,Cleveland,non-anginal,121,232,1,lv hypertrophy,158,1,0.8671071407247951,flat,0,reversable defect,1
+56,1,Cleveland,asymptomatic,125,331,0,lv hypertrophy,124,1,1.59035655602333,flat,0,normal,1
+63,1,Cleveland,asymptomatic,152,194,-1,normal,148,1,3.0401708957706663,upsloping,-1,reversable defect,1
+56,1,VA Long Beach,asymptomatic,147,259,0,st-t abnormality,119,1,1.61624975300143,flat,-1,empty_val,2
+56,1,Hungary,non-anginal,121,232,0,normal,158,0,0.0107544170975898,flat,-1,empty_val,1
+56,1,Switzerland,asymptomatic,134,201,0,normal,140,1,2.0,flat,-1,reversable defect,3
+50,1,Cleveland,atypical angina,118,217,0,normal,159,1,0.0077503348327126,flat,-1,empty_val,4
+56,1,Cleveland,asymptomatic,147,232,0,normal,119,1,1.61624975300143,flat,-1,reversable defect,2
+47,1,Cleveland,asymptomatic,127,238,0,lv hypertrophy,176,1,2.9864796013447723,flat,0,normal,4
+55,1,VA Long Beach,asymptomatic,146,226,0,st-t abnormality,156,1,-0.0011195021393203,empty_val,-1,reversable defect,2
+59,1,Cleveland,asymptomatic,123,233,0,lv hypertrophy,121,1,0.0345041373842014,flat,1,normal,3
+59,0,Cleveland,non-anginal,116,265,0,lv hypertrophy,156,0,1.059666487234806,flat,0,normal,0
+59,1,VA Long Beach,asymptomatic,106,238,0,normal,124,1,3.686285326417635,flat,-1,reversable defect,3
+49,1,Cleveland,typical angina,145,273,0,normal,149,0,1.6635856463248748,upsloping,0,normal,4
+52,1,Cleveland,non-anginal,145,200,1,normal,147,0,1.8204234014315577,flat,-1,normal,1
+56,1,Hungary,atypical angina,147,232,0,normal,158,0,0.0107544170975898,empty_val,-1,empty_val,0
+56,1,Hungary,atypical angina,121,232,0,normal,119,0,1.61624975300143,upsloping,-1,empty_val,0
+55,0,Cleveland,non-anginal,143,216,0,normal,153,0,1.4450875826456024,upsloping,0,normal,0
+40,1,Cleveland,asymptomatic,113,232,0,normal,160,0,-0.0124773274781723,upsloping,0,reversable defect,0
+56,1,VA Long Beach,asymptomatic,147,232,1,normal,158,1,1.61624975300143,flat,-1,empty_val,0
+29,0,Cleveland,non-anginal,119,202,0,normal,194,0,0.0,upsloping,0,normal,0
+52,1,Hungary,atypical angina,110,184,0,normal,140,0,0.0,empty_val,-1,empty_val,0
+59,1,Switzerland,asymptomatic,126,0,-1,st-t abnormality,110,1,1.0356565711531602,downsloping,-1,empty_val,1
+29,1,Switzerland,asymptomatic,149,0,-1,normal,160,0,0.0013910051559736,flat,-1,empty_val,2
+61,1,Switzerland,asymptomatic,150,0,0,st-t abnormality,140,1,1.0,flat,-1,empty_val,1
+61,1,Cleveland,asymptomatic,139,299,1,empty_val,149,0,0.1635086994105868,flat,3,reversable defect,1
+51,1,Cleveland,non-anginal,160,195,0,lv hypertrophy,140,0,0.0,upsloping,0,reversable defect,0
+42,1,Cleveland,non-anginal,129,252,0,normal,167,0,-0.4498096789606359,downsloping,0,reversable defect,0
+61,1,Switzerland,asymptomatic,135,10,0,normal,152,0,-0.0252548686838494,upsloping,1,reversable defect,0
+55,1,Cleveland,non-anginal,121,254,0,lv hypertrophy,147,0,3.653338254851063,flat,0,reversable defect,0
+57,1,Cleveland,asymptomatic,117,261,0,lv hypertrophy,161,1,2.019490749356588,flat,-1,empty_val,1
+61,1,Cleveland,typical angina,126,227,1,normal,140,0,-0.0777237832221536,flat,-1,normal,4
+54,1,Switzerland,asymptomatic,150,0,0,normal,140,1,1.0,flat,-1,empty_val,1
+58,1,Switzerland,asymptomatic,155,0,0,normal,105,1,1.5,upsloping,-1,reversable defect,3
+40,1,Hungary,atypical angina,116,229,0,normal,171,0,0.0319943625859107,empty_val,0,normal,0
+57,1,Cleveland,asymptomatic,131,292,0,normal,132,0,-0.170085661312468,upsloping,0,normal,0
+52,0,Cleveland,non-anginal,156,212,0,normal,155,0,1.5510611040089557,flat,0,normal,0
+60,1,VA Long Beach,asymptomatic,130,220,0,normal,99,1,1.5,flat,-1,empty_val,1
+39,1,Switzerland,asymptomatic,107,0,-1,st-t abnormality,140,0,1.062882054367748,flat,-1,empty_val,1
+59,0,Cleveland,asymptomatic,139,199,0,normal,119,1,3.0949800701300774,flat,2,reversable defect,3
+57,1,Cleveland,asymptomatic,120,1,0,normal,109,1,1.6329574715920907,upsloping,-1,reversable defect,2
+47,1,Hungary,typical angina,121,294,0,st-t abnormality,122,0,0.3776758611162347,upsloping,-1,empty_val,0
+28,1,Switzerland,non-anginal,107,0,-1,normal,195,0,6.2,downsloping,-1,empty_val,0
+46,1,Hungary,atypical angina,160,255,0,normal,136,0,0.2337878454514008,empty_val,-1,empty_val,0
+56,1,VA Long Beach,asymptomatic,147,259,1,lv hypertrophy,158,1,0.0107544170975898,empty_val,1,reversable defect,0
+39,0,Hungary,atypical angina,110,225,0,normal,150,0,0.0,empty_val,-1,empty_val,0
+55,1,Cleveland,non-anginal,116,201,0,lv hypertrophy,110,0,1.4060068384362694,flat,3,normal,0
+60,1,Hungary,typical angina,124,0,0,lv hypertrophy,103,0,1.8629279360067497,empty_val,0,normal,3
+77,0,VA Long Beach,asymptomatic,200,603,0,lv hypertrophy,60,1,6.2,downsloping,3,empty_val,3
+56,1,Switzerland,asymptomatic,121,1,-1,normal,119,0,0.8671071407247951,flat,-1,empty_val,2
+45,1,Hungary,asymptomatic,157,277,0,normal,113,1,2.5047302131325138,flat,-1,empty_val,1
+40,0,Hungary,non-anginal,118,264,0,normal,148,0,0.0,empty_val,-1,empty_val,0
+44,1,Cleveland,asymptomatic,119,227,0,lv hypertrophy,164,0,0.024798425303514,flat,-1,reversable defect,1
+34,1,Hungary,atypical angina,150,223,0,normal,140,1,0.0070973055288577,upsloping,-1,empty_val,4
+46,0,Hungary,atypical angina,115,195,0,normal,163,0,0.0,upsloping,-1,empty_val,0
+56,1,VA Long Beach,atypical angina,147,232,1,normal,158,0,1.61624975300143,flat,-1,empty_val,0
+47,1,Hungary,non-anginal,143,251,0,normal,143,0,0.8265098842702912,empty_val,-1,reversable defect,0
+42,0,Switzerland,asymptomatic,147,1,0,normal,158,1,1.61624975300143,upsloping,0,reversable defect,0
+55,1,Hungary,non-anginal,123,228,0,normal,154,1,1.829733538002636,flat,-1,empty_val,1
+43,1,Hungary,atypical angina,160,295,1,normal,178,0,0.0,empty_val,-1,empty_val,0
+48,1,Cleveland,asymptomatic,142,316,1,lv hypertrophy,146,0,4.599642439894854,downsloping,2,reversable defect,0
+56,0,Hungary,typical angina,147,232,0,lv hypertrophy,158,0,1.61624975300143,empty_val,-1,reversable defect,0
+58,1,Switzerland,atypical angina,140,142,0,st-t abnormality,152,0,0.6624654397168889,empty_val,-1,empty_val,1
+53,1,Switzerland,asymptomatic,140,0,1,normal,150,1,2.0,flat,-1,fixed defect,3
+67,0,Cleveland,non-anginal,151,304,0,lv hypertrophy,152,0,2.1570817708246786,upsloping,0,normal,0
+56,1,Cleveland,asymptomatic,150,229,1,lv hypertrophy,155,1,0.4,flat,0,reversable defect,1
+58,1,Cleveland,atypical angina,130,234,0,lv hypertrophy,157,0,0.6,flat,0,reversable defect,1
+47,1,Switzerland,typical angina,121,7,0,normal,122,0,0.072441275514987,flat,-1,reversable defect,4
+48,1,Cleveland,non-anginal,109,0,0,normal,157,0,4.824462564267532,flat,-1,empty_val,0
+46,1,Hungary,non-anginal,140,230,0,lv hypertrophy,112,0,-0.0135921910207943,empty_val,-1,empty_val,0
+62,1,Hungary,asymptomatic,143,235,-1,st-t abnormality,105,1,1.1890010853544783,flat,-1,empty_val,3
+41,1,Hungary,asymptomatic,131,272,0,normal,93,1,1.10613690586313,flat,-1,empty_val,1
+57,0,Cleveland,non-anginal,133,212,0,normal,105,0,-0.3962974257152434,empty_val,-1,empty_val,1
+55,1,VA Long Beach,asymptomatic,150,202,0,st-t abnormality,118,1,1.7905773771354991,flat,-1,empty_val,2
+63,1,Cleveland,asymptomatic,128,341,0,normal,122,0,0.0,upsloping,0,reversable defect,1
+48,1,VA Long Beach,atypical angina,130,196,0,normal,135,0,0.0,empty_val,-1,empty_val,0
+48,1,Switzerland,asymptomatic,130,0,0,normal,108,1,2.0,flat,-1,empty_val,1
+35,1,Hungary,non-anginal,153,204,0,normal,151,0,0.0336958664382135,empty_val,-1,empty_val,0
+48,1,Switzerland,asymptomatic,141,0,-1,normal,118,0,2.394021064193556,flat,-1,reversable defect,1
+56,1,Hungary,asymptomatic,147,232,0,normal,158,1,0.8671071407247951,flat,-1,empty_val,1
+33,1,Hungary,atypical angina,160,163,0,normal,176,0,-0.0177838939655449,empty_val,-1,empty_val,0
+56,1,VA Long Beach,non-anginal,121,232,0,lv hypertrophy,158,1,0.0107544170975898,downsloping,1,reversable defect,1
+56,1,Cleveland,non-anginal,147,259,0,st-t abnormality,119,1,0.8671071407247951,flat,1,empty_val,0
+56,1,Cleveland,asymptomatic,150,229,1,lv hypertrophy,155,1,0.4,flat,0,reversable defect,1
+60,0,Cleveland,atypical angina,131,216,0,lv hypertrophy,137,0,0.323790759071615,upsloping,1,normal,0
+77,1,Switzerland,asymptomatic,144,4,-1,normal,108,1,0.0870403038137398,empty_val,-1,empty_val,2
+40,0,Hungary,atypical angina,119,262,0,normal,121,0,1.526690076292082,empty_val,-1,empty_val,0
+46,1,Hungary,asymptomatic,118,222,0,normal,128,0,2.6343296835420738,flat,-1,empty_val,2
+53,1,Switzerland,asymptomatic,121,232,1,normal,158,0,2.412754951424783,flat,-1,reversable defect,1
+56,1,Hungary,non-anginal,147,232,1,normal,158,1,0.8671071407247951,empty_val,-1,empty_val,0
+66,1,Switzerland,atypical angina,135,0,0,normal,128,1,1.2097685387410158,flat,-1,normal,1
+56,0,Cleveland,non-anginal,121,341,0,lv hypertrophy,146,0,0.0783622351579797,flat,2,normal,4
+59,1,Cleveland,asymptomatic,136,280,0,normal,163,1,3.303054498738468,flat,1,reversable defect,2
+60,1,Cleveland,asymptomatic,122,251,0,lv hypertrophy,147,0,0.7775318640508934,upsloping,0,normal,2
+60,1,Cleveland,asymptomatic,125,238,1,lv hypertrophy,161,0,0.0500061714628761,upsloping,1,normal,0
+67,1,Cleveland,asymptomatic,112,212,0,normal,120,1,2.0,flat,1,normal,2
+64,1,Cleveland,atypical angina,130,221,0,lv hypertrophy,172,0,0.0,upsloping,0,normal,0
+52,1,VA Long Beach,non-anginal,160,274,1,normal,107,0,0.0975783799573783,downsloping,0,reversable defect,0
+62,1,VA Long Beach,asymptomatic,166,256,1,empty_val,147,0,1.887460994024796,upsloping,2,fixed defect,1
+53,1,Switzerland,asymptomatic,110,0,0,normal,140,1,3.0,flat,-1,fixed defect,1
+69,0,VA Long Beach,atypical angina,101,65,0,st-t abnormality,130,0,0.4355467668322713,flat,-1,empty_val,1
+57,1,Hungary,asymptomatic,144,317,0,normal,102,1,2.261788716090208,flat,-1,empty_val,1
+41,1,Hungary,asymptomatic,151,200,0,normal,136,1,0.6128804221690146,downsloping,-1,reversable defect,0
+61,0,Cleveland,asymptomatic,135,204,0,normal,155,0,1.3997534458447851,upsloping,-1,normal,0
+57,1,Hungary,non-anginal,159,46,0,normal,116,1,0.489989520473243,downsloping,-1,empty_val,0
+60,1,Hungary,asymptomatic,120,245,0,normal,150,0,0.0,empty_val,-1,empty_val,1
+45,1,Hungary,asymptomatic,159,259,0,st-t abnormality,137,1,1.5839168366371268,flat,-1,fixed defect,1
+56,1,Hungary,asymptomatic,147,232,-1,normal,158,0,1.61624975300143,flat,-1,empty_val,0
+57,1,VA Long Beach,non-anginal,126,223,0,st-t abnormality,128,0,0.0,empty_val,-1,empty_val,3
+47,1,Cleveland,asymptomatic,154,219,-1,normal,125,1,1.510360240180366,flat,-1,empty_val,0
+60,0,Cleveland,typical angina,142,238,0,lv hypertrophy,141,0,2.3920433352818664,upsloping,0,reversable defect,0
+46,1,Hungary,asymptomatic,135,141,0,normal,113,0,0.0,empty_val,-1,empty_val,0
+61,1,Cleveland,asymptomatic,132,285,0,lv hypertrophy,150,0,2.4184594378263204,flat,2,normal,2
+56,0,Cleveland,non-anginal,121,259,1,lv hypertrophy,158,0,0.0107544170975898,upsloping,-1,normal,0
+57,1,Hungary,non-anginal,125,453,1,normal,96,0,1.528160980893548,empty_val,-1,empty_val,1
+59,0,VA Long Beach,typical angina,132,239,0,normal,165,0,0.0390097391041888,flat,-1,empty_val,0
+61,0,VA Long Beach,asymptomatic,116,211,0,lv hypertrophy,132,1,2.1684443314343382,upsloping,0,empty_val,2
+55,1,VA Long Beach,asymptomatic,132,199,1,st-t abnormality,111,1,1.232549320904945,flat,-1,empty_val,1
+59,0,Switzerland,non-anginal,130,308,0,normal,110,1,0.0,empty_val,-1,empty_val,0
+56,1,Hungary,asymptomatic,147,232,0,normal,119,1,1.61624975300143,empty_val,-1,empty_val,0
+61,1,Switzerland,asymptomatic,119,10,-1,normal,98,0,2.615408314381633,upsloping,-1,empty_val,1
+43,1,Hungary,atypical angina,120,257,0,normal,158,0,1.6338086914351544,empty_val,-1,empty_val,1
+59,1,Cleveland,asymptomatic,126,258,0,lv hypertrophy,124,1,2.600234792445757,flat,2,reversable defect,3
+46,0,Hungary,atypical angina,136,248,0,normal,141,0,0.0,empty_val,-1,empty_val,0
+62,1,Cleveland,asymptomatic,164,265,0,lv hypertrophy,135,1,0.1784888218973859,flat,-1,normal,1
+55,0,Switzerland,typical angina,123,204,0,normal,123,0,0.9926604132888036,flat,-1,empty_val,1
+28,1,Hungary,atypical angina,141,241,0,normal,185,0,-0.0646041672734991,empty_val,-1,empty_val,0
+42,1,VA Long Beach,asymptomatic,130,223,0,normal,130,0,0.0,empty_val,-1,empty_val,1
+60,1,Cleveland,asymptomatic,125,211,0,lv hypertrophy,111,0,1.944986575408805,upsloping,1,reversable defect,2
+61,1,VA Long Beach,non-anginal,140,0,0,st-t abnormality,102,0,0.0,empty_val,-1,empty_val,2
+58,1,Hungary,asymptomatic,146,240,0,normal,111,1,1.7676533185612575,downsloping,0,empty_val,1
+48,0,Hungary,atypical angina,127,211,0,normal,174,0,0.0,empty_val,-1,empty_val,0
+63,1,Switzerland,asymptomatic,141,210,0,lv hypertrophy,135,0,2.013251258050278,upsloping,-1,empty_val,3
+58,0,Cleveland,non-anginal,123,238,0,normal,124,1,0.8777369532208533,flat,0,normal,0
+66,1,Cleveland,asymptomatic,145,244,0,lv hypertrophy,163,1,1.5027911411472403,flat,2,reversable defect,3
+56,0,Cleveland,atypical angina,121,232,0,normal,119,0,0.0107544170975898,flat,0,normal,0
+37,1,VA Long Beach,typical angina,116,163,0,lv hypertrophy,139,1,0.9610649792872722,empty_val,-1,fixed defect,0
+61,0,Cleveland,non-anginal,124,237,0,normal,144,0,0.4846656612676829,upsloping,0,normal,0
+36,1,VA Long Beach,asymptomatic,119,235,0,lv hypertrophy,146,1,1.4126679985686257,empty_val,-1,empty_val,1
+49,1,Cleveland,asymptomatic,129,159,0,lv hypertrophy,186,0,-0.2269821306718941,upsloping,0,normal,0
+60,1,Hungary,asymptomatic,144,172,0,normal,140,0,0.9137236352780588,flat,-1,empty_val,1
+43,0,Cleveland,atypical angina,130,259,0,lv hypertrophy,159,1,0.0,flat,0,normal,0
+61,1,Cleveland,atypical angina,123,226,0,normal,103,0,1.6216123983416109,flat,0,reversable defect,0
+56,1,Cleveland,asymptomatic,160,236,0,lv hypertrophy,135,1,2.5,downsloping,1,reversable defect,3
+59,1,Cleveland,asymptomatic,123,233,0,lv hypertrophy,121,1,0.0345041373842014,flat,1,normal,3
+47,1,Hungary,asymptomatic,130,216,0,normal,130,0,0.0,empty_val,-1,empty_val,1
+56,1,VA Long Beach,asymptomatic,121,232,0,st-t abnormality,158,0,1.61624975300143,downsloping,-1,empty_val,1
+41,1,Switzerland,atypical angina,154,31,0,normal,92,1,1.0140323677855998,empty_val,-1,empty_val,1
+45,1,Cleveland,asymptomatic,120,209,0,normal,154,0,1.0,flat,0,normal,1
+51,1,Cleveland,asymptomatic,115,210,0,lv hypertrophy,167,0,0.0337018515734526,upsloping,0,normal,0
+66,1,VA Long Beach,asymptomatic,128,274,0,lv hypertrophy,112,1,2.0,flat,-1,empty_val,3
+58,1,Cleveland,atypical angina,128,237,0,normal,141,0,0.0472791995640187,upsloping,0,reversable defect,0
+56,1,Cleveland,asymptomatic,121,232,0,lv hypertrophy,158,0,0.0107544170975898,upsloping,0,normal,0
+28,1,Switzerland,asymptomatic,93,0,-1,normal,160,0,-2.2150991135980767,flat,-1,empty_val,1
+55,1,Cleveland,asymptomatic,126,232,0,normal,153,0,1.6818872457466478,empty_val,-1,empty_val,1
+59,1,Cleveland,asymptomatic,115,231,0,lv hypertrophy,165,0,3.414442179357017,downsloping,0,reversable defect,0
+58,1,Cleveland,non-anginal,120,207,0,lv hypertrophy,140,1,2.6,flat,0,normal,3
+58,1,Cleveland,asymptomatic,125,246,0,normal,162,0,0.0605054655477693,upsloping,0,reversable defect,0
+56,0,Cleveland,non-anginal,121,259,0,st-t abnormality,158,0,0.0107544170975898,upsloping,-1,normal,0
+42,1,Switzerland,asymptomatic,99,0,-1,lv hypertrophy,167,0,1.682996440974337,upsloping,-1,empty_val,0
+48,1,Cleveland,non-anginal,160,208,0,lv hypertrophy,182,0,0.2,upsloping,0,reversable defect,0
+58,1,Cleveland,asymptomatic,155,223,0,normal,112,1,1.7566507136347065,downsloping,0,empty_val,0
+50,1,Switzerland,asymptomatic,120,0,-1,normal,92,0,1.0,flat,-1,reversable defect,2
+28,1,Hungary,atypical angina,158,0,0,normal,195,0,-2.6,empty_val,-1,empty_val,0
+52,1,VA Long Beach,asymptomatic,146,178,1,lv hypertrophy,112,0,2.0329287982449378,upsloping,-1,empty_val,1
+42,0,Hungary,atypical angina,121,232,0,st-t abnormality,158,0,0.0107544170975898,empty_val,-1,empty_val,0
+36,1,Hungary,asymptomatic,129,264,0,normal,125,1,1.1813162960052386,flat,0,normal,0
+55,1,Hungary,asymptomatic,150,200,0,st-t abnormality,160,0,0.0,empty_val,-1,empty_val,1
+63,1,Switzerland,asymptomatic,140,0,-1,normal,105,1,0.0,empty_val,-1,normal,2
+39,1,Hungary,asymptomatic,139,351,0,st-t abnormality,146,1,3.577765191267632,flat,-1,empty_val,1
+66,1,Cleveland,asymptomatic,120,297,0,normal,108,0,0.3907338397582988,downsloping,0,normal,0
+56,0,Cleveland,non-anginal,147,230,0,lv hypertrophy,131,1,1.425497153845484,flat,3,empty_val,3
+42,0,Cleveland,non-anginal,121,232,0,normal,158,0,1.61624975300143,flat,0,normal,0
+62,1,Cleveland,asymptomatic,151,299,0,lv hypertrophy,147,0,1.0131996875661236,upsloping,0,reversable defect,2
+28,1,Hungary,atypical angina,80,603,0,normal,195,0,-2.6,empty_val,-1,empty_val,0
+52,0,Hungary,atypical angina,134,239,0,normal,131,0,0.8379124326385052,flat,-1,empty_val,0
+59,1,Cleveland,atypical angina,147,223,0,normal,106,1,3.6380181047485416,upsloping,-1,normal,1
+63,1,VA Long Beach,asymptomatic,142,208,0,normal,115,1,0.627189885744373,flat,-1,empty_val,2
+42,0,Cleveland,asymptomatic,121,232,0,normal,119,0,1.61624975300143,flat,-1,fixed defect,0
+61,0,Cleveland,non-anginal,153,340,0,normal,158,0,0.1355424162999272,upsloping,0,normal,0
+43,1,Cleveland,atypical angina,104,172,0,normal,147,0,-0.0013541935808825,upsloping,0,normal,0
+65,0,Cleveland,asymptomatic,127,209,0,lv hypertrophy,127,0,3.0039466543067395,flat,2,reversable defect,2
+56,1,Switzerland,typical angina,147,1,0,st-t abnormality,119,0,0.0107544170975898,flat,-1,normal,2
+56,1,Hungary,asymptomatic,147,232,0,normal,119,1,0.0107544170975898,empty_val,-1,empty_val,1
+58,0,Hungary,asymptomatic,124,383,0,st-t abnormality,160,0,0.6289698416116971,upsloping,1,empty_val,0
+43,1,Cleveland,asymptomatic,120,255,0,normal,155,1,0.0,flat,0,normal,0
+56,1,Cleveland,non-anginal,150,240,0,normal,161,0,0.0,upsloping,0,reversable defect,2
+56,1,Hungary,atypical angina,120,248,0,st-t abnormality,140,0,2.0,flat,-1,empty_val,1
+61,1,Switzerland,asymptomatic,115,0,0,normal,94,0,0.0,empty_val,-1,normal,1
+51,1,Hungary,asymptomatic,140,302,0,normal,134,1,0.8278465285997397,flat,-1,empty_val,1
+57,1,Hungary,asymptomatic,147,199,0,normal,153,0,1.225960173124077,empty_val,-1,empty_val,1
+53,1,Cleveland,atypical angina,120,184,0,normal,133,1,0.0865229185283935,downsloping,-1,reversable defect,3
+60,0,Cleveland,atypical angina,140,186,0,st-t abnormality,149,0,0.7193902239583797,upsloping,0,empty_val,0
+56,1,VA Long Beach,non-anginal,146,229,0,normal,151,0,1.721395550647484,downsloping,-1,reversable defect,2
+57,1,VA Long Beach,asymptomatic,141,226,0,normal,154,1,0.0022316364152179,empty_val,-1,empty_val,1
+42,0,Cleveland,asymptomatic,138,215,0,normal,166,0,1.6432981305418697,upsloping,0,normal,0
+58,1,VA Long Beach,asymptomatic,131,320,0,normal,133,1,4.092246129315698,downsloping,-1,empty_val,1
+57,0,Hungary,asymptomatic,144,218,0,normal,145,1,2.408709803803931,upsloping,-1,empty_val,1
+55,1,Cleveland,asymptomatic,131,325,0,normal,104,0,1.0394337728646617,flat,-1,empty_val,1
+51,1,Hungary,non-anginal,144,203,0,normal,149,0,1.034646002234764,upsloping,0,normal,0
+64,1,Switzerland,non-anginal,117,0,0,lv hypertrophy,105,0,0.0,flat,-1,normal,1
+42,0,Hungary,typical angina,147,232,0,st-t abnormality,158,1,0.0107544170975898,flat,-1,reversable defect,3
+58,1,Cleveland,asymptomatic,110,283,0,lv hypertrophy,152,1,3.649449320162773,flat,2,reversable defect,4
+57,1,Hungary,non-anginal,138,251,1,lv hypertrophy,152,0,1.5408118767797827,empty_val,-1,empty_val,0
+34,0,Hungary,atypical angina,118,223,0,normal,161,1,1.5393591175947674,downsloping,-1,reversable defect,0
+55,1,Hungary,atypical angina,126,221,0,normal,145,1,1.848323473119917,flat,-1,empty_val,1
+39,0,Hungary,atypical angina,111,247,0,st-t abnormality,143,0,0.0,empty_val,-1,empty_val,0
+50,1,Hungary,asymptomatic,132,296,0,lv hypertrophy,180,0,0.7819335084088809,flat,-1,reversable defect,1
+43,1,Switzerland,asymptomatic,119,0,-1,normal,120,1,0.0574152109785367,flat,-1,empty_val,3
+38,0,Hungary,typical angina,111,254,0,normal,169,0,0.0,empty_val,-1,empty_val,0
+64,1,VA Long Beach,asymptomatic,133,288,0,empty_val,98,0,1.369702014760129,flat,-1,empty_val,4
+41,0,Hungary,atypical angina,92,234,0,normal,151,0,0.0365846791658004,empty_val,-1,empty_val,0
+58,0,Hungary,atypical angina,155,299,0,lv hypertrophy,145,1,0.0,upsloping,-1,empty_val,0
+77,1,VA Long Beach,asymptomatic,200,603,0,lv hypertrophy,60,1,-2.6,empty_val,-1,reversable defect,0
+49,1,Hungary,non-anginal,169,338,0,normal,141,0,-0.0734456890628193,empty_val,-1,empty_val,0
+41,1,Hungary,atypical angina,127,165,0,normal,170,0,0.0,empty_val,-1,normal,0
+55,0,Switzerland,atypical angina,165,226,1,normal,174,0,0.9372567040743552,upsloping,-1,normal,1
+54,1,Hungary,asymptomatic,141,254,-1,normal,106,1,3.269838579887568,flat,-1,reversable defect,3
+63,1,Cleveland,non-anginal,132,487,0,lv hypertrophy,144,0,-0.0369127636307269,upsloping,-1,normal,0
+56,1,VA Long Beach,asymptomatic,147,232,1,normal,158,1,1.61624975300143,upsloping,1,normal,0
+43,1,VA Long Beach,asymptomatic,132,207,1,normal,84,1,0.5130390114349878,flat,-1,empty_val,1
+63,0,Cleveland,asymptomatic,150,296,0,lv hypertrophy,170,0,1.015132870657626,upsloping,0,normal,0
+40,1,Cleveland,asymptomatic,151,247,1,normal,156,0,0.0334143359213914,empty_val,-1,empty_val,0
+56,1,VA Long Beach,asymptomatic,147,232,0,normal,119,1,0.0107544170975898,flat,-1,empty_val,2
+50,1,Cleveland,asymptomatic,130,313,0,lv hypertrophy,142,0,2.562852794228868,flat,0,reversable defect,3
+60,1,Hungary,non-anginal,134,351,0,normal,135,0,0.0,empty_val,-1,empty_val,1
+56,1,Cleveland,non-anginal,145,209,1,lv hypertrophy,138,1,4.527407899387838,flat,-1,reversable defect,3
+42,0,Hungary,non-anginal,130,393,0,normal,118,0,0.0,empty_val,-1,empty_val,0
+44,1,Hungary,asymptomatic,172,249,0,st-t abnormality,111,1,1.6690020483467705,flat,-1,empty_val,1
+36,1,Hungary,atypical angina,124,272,0,normal,155,1,0.1170050936769192,empty_val,-1,empty_val,1
+56,1,Switzerland,asymptomatic,110,0,0,st-t abnormality,100,0,0.0,flat,-1,reversable defect,3
+36,1,Switzerland,non-anginal,118,212,0,normal,132,0,1.0989899614564038,upsloping,-1,empty_val,0
+43,1,Hungary,asymptomatic,138,294,0,normal,159,1,1.9384098161925205,upsloping,-1,normal,0
+41,1,Hungary,non-anginal,129,221,0,normal,121,0,-0.0586003271387554,empty_val,-1,fixed defect,0
+56,1,Switzerland,asymptomatic,155,0,0,normal,130,1,1.0,flat,-1,empty_val,3
+45,1,VA Long Beach,asymptomatic,118,246,0,st-t abnormality,152,0,1.63419276471002,flat,1,reversable defect,0
+42,0,Hungary,non-anginal,130,393,0,normal,118,0,0.0,empty_val,-1,empty_val,0
+40,1,Hungary,atypical angina,119,215,0,normal,165,0,-0.027867110615038,empty_val,-1,normal,0
+65,1,Switzerland,asymptomatic,130,0,-1,lv hypertrophy,115,0,1.5,upsloping,-1,reversable defect,4
+57,1,VA Long Beach,non-anginal,151,216,0,normal,120,1,0.0119489665151049,flat,-1,normal,0
+47,1,Switzerland,asymptomatic,144,252,0,st-t abnormality,146,0,1.965007888265747,flat,-1,empty_val,1
+41,0,Cleveland,typical angina,101,260,0,normal,141,0,0.7329010811005445,flat,0,reversable defect,0
+44,0,Cleveland,non-anginal,140,219,0,lv hypertrophy,170,1,1.9,upsloping,0,reversable defect,0
+55,1,Switzerland,asymptomatic,120,0,0,normal,108,1,0.7725808226819656,upsloping,-1,reversable defect,1
+56,1,VA Long Beach,atypical angina,121,259,0,normal,158,1,1.61624975300143,downsloping,-1,empty_val,0
+56,1,Cleveland,non-anginal,121,232,1,normal,119,1,0.8671071407247951,flat,0,normal,1
+52,0,Cleveland,atypical angina,110,206,0,normal,165,0,0.1337218741163384,upsloping,0,normal,0
+56,1,VA Long Beach,asymptomatic,121,232,0,normal,119,0,0.0107544170975898,upsloping,-1,empty_val,1
+71,1,VA Long Beach,asymptomatic,124,245,0,lv hypertrophy,96,1,0.0,empty_val,-1,empty_val,1
+54,1,Hungary,atypical angina,127,284,0,normal,195,1,0.034175033130249,empty_val,0,empty_val,0
+42,0,Cleveland,asymptomatic,147,232,0,st-t abnormality,158,0,0.0107544170975898,upsloping,-1,normal,0
+75,1,Cleveland,typical angina,134,272,-1,lv hypertrophy,147,0,2.827259055830139,flat,2,normal,1
+58,1,Hungary,asymptomatic,153,256,0,normal,118,1,1.3860420153995374,upsloping,-1,empty_val,3
+56,1,VA Long Beach,atypical angina,141,201,0,normal,131,0,1.1310204029392936,flat,-1,fixed defect,0
+41,0,Hungary,non-anginal,121,154,0,normal,126,0,1.4194100974566477,flat,-1,empty_val,1
+56,1,Cleveland,atypical angina,121,232,0,lv hypertrophy,119,0,0.0107544170975898,upsloping,0,reversable defect,3
+56,1,VA Long Beach,asymptomatic,121,1,-1,st-t abnormality,119,1,1.61624975300143,flat,-1,empty_val,3
+40,1,Hungary,atypical angina,119,225,0,normal,152,0,-0.0252426530767465,empty_val,1,reversable defect,0
+77,0,Switzerland,asymptomatic,121,241,0,normal,110,0,2.586659777709155,downsloping,0,reversable defect,1
+58,1,Hungary,asymptomatic,141,286,0,normal,176,1,1.7398226829491177,flat,-1,empty_val,1
+50,0,Hungary,asymptomatic,113,233,0,normal,139,0,-0.240850469159441,empty_val,-1,empty_val,0
+51,1,Hungary,asymptomatic,130,394,-1,normal,140,0,0.0,empty_val,-1,empty_val,1
+37,1,Hungary,asymptomatic,130,160,0,normal,138,0,0.0,empty_val,-1,empty_val,0
+50,1,Cleveland,asymptomatic,120,261,1,normal,149,0,2.3400310495429517,flat,2,reversable defect,2
+63,0,Cleveland,asymptomatic,114,232,0,lv hypertrophy,175,0,1.2062677523918597,upsloping,2,normal,0
+40,1,Cleveland,non-anginal,122,253,0,normal,183,0,-0.0166056022408451,upsloping,0,normal,0
+58,0,VA Long Beach,atypical angina,112,0,0,normal,118,0,1.5,flat,-1,fixed defect,1
+55,1,Switzerland,non-anginal,163,0,0,normal,92,1,0.923516204560095,flat,-1,reversable defect,1
+52,1,Cleveland,typical angina,141,147,0,lv hypertrophy,179,1,1.0843231449739854,upsloping,1,normal,1
+56,1,VA Long Beach,asymptomatic,163,0,0,normal,110,1,-0.8731653188225943,flat,-1,empty_val,1
+73,1,Cleveland,asymptomatic,190,238,0,normal,135,1,3.96316662380464,flat,1,reversable defect,3
+41,1,Hungary,asymptomatic,106,187,0,normal,147,0,0.0,empty_val,-1,fixed defect,1
+52,0,Hungary,typical angina,140,209,0,normal,132,0,0.0281845908016184,empty_val,-1,empty_val,0
+64,1,Cleveland,non-anginal,120,236,0,lv hypertrophy,168,0,0.0,upsloping,2,normal,0
+63,1,Cleveland,asymptomatic,197,203,0,normal,135,1,1.3674844471158305,upsloping,2,reversable defect,3
+63,1,Cleveland,asymptomatic,128,341,0,normal,122,0,0.0,upsloping,0,reversable defect,1
+57,1,Hungary,atypical angina,125,234,0,normal,151,1,0.0499888010906483,empty_val,-1,empty_val,1
+49,0,Hungary,non-anginal,132,253,0,lv hypertrophy,131,0,0.0157728667233705,upsloping,-1,empty_val,0
+54,1,Cleveland,asymptomatic,129,282,0,lv hypertrophy,124,0,0.9062024989765698,upsloping,0,normal,0
+56,1,Cleveland,atypical angina,123,239,0,normal,166,0,0.00030739521579,upsloping,0,normal,0
+48,1,Hungary,atypical angina,120,213,0,normal,160,0,0.0,empty_val,-1,empty_val,0
+42,1,Cleveland,asymptomatic,147,232,0,normal,158,1,0.0107544170975898,flat,-1,empty_val,0
+63,1,VA Long Beach,asymptomatic,130,209,0,st-t abnormality,120,1,1.0,upsloping,-1,empty_val,2
+57,1,Cleveland,non-anginal,120,269,0,lv hypertrophy,172,0,1.4,flat,0,reversable defect,0
+61,0,Cleveland,asymptomatic,158,287,0,lv hypertrophy,169,0,0.0987505462247049,upsloping,-1,normal,0
+55,1,Hungary,non-anginal,146,234,0,normal,153,0,-0.0038185757115962,empty_val,-1,empty_val,0
+76,1,Cleveland,asymptomatic,80,603,0,lv hypertrophy,60,1,6.2,flat,-1,normal,3
+65,1,VA Long Beach,non-anginal,112,63,0,lv hypertrophy,188,0,-0.0152219217783512,upsloping,-1,reversable defect,0
+67,1,Switzerland,asymptomatic,130,0,0,normal,105,1,3.0,downsloping,-1,empty_val,4
+49,1,Hungary,typical angina,154,199,0,normal,123,0,-0.0123423923346057,flat,-1,fixed defect,0
+59,1,VA Long Beach,asymptomatic,140,0,0,st-t abnormality,111,0,2.5417888664334134,flat,-1,fixed defect,2
+58,1,Cleveland,asymptomatic,118,247,0,st-t abnormality,150,1,1.0313872965793969,flat,1,reversable defect,1
+48,1,Hungary,non-anginal,108,174,0,normal,155,0,0.0,empty_val,-1,normal,0
+42,1,VA Long Beach,non-anginal,121,232,1,normal,158,1,0.0107544170975898,empty_val,-1,normal,0
+64,0,Cleveland,atypical angina,136,214,0,normal,178,0,1.7253856759572563,upsloping,0,normal,0
+60,1,VA Long Beach,asymptomatic,134,228,0,normal,106,1,0.931358381203017,flat,-1,empty_val,0
+56,1,Hungary,asymptomatic,130,240,0,normal,140,1,0.0,empty_val,-1,empty_val,1
+58,1,Cleveland,asymptomatic,140,264,0,normal,145,1,2.488293281813587,flat,0,reversable defect,2
+40,0,Hungary,atypical angina,128,304,0,normal,146,0,0.0,empty_val,-1,empty_val,0
+44,1,Cleveland,non-anginal,102,194,0,lv hypertrophy,182,0,0.312950318957235,upsloping,0,normal,0
+56,1,Cleveland,asymptomatic,146,238,0,lv hypertrophy,112,0,3.158760890825304,flat,2,reversable defect,2
